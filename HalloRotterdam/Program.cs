@@ -9,6 +9,7 @@ namespace HalloRotterdam
             Console.WriteLine("Hallo Rotterdam!");
             Console.WriteLine("Joehoe, middsumma blowout?");
             Console.WriteLine("ay");
+            Console.WriteLine("p.s. Ja toch neef");
         }
     }
 }
